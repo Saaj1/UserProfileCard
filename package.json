@@ -1,7 +1,7 @@
 {
   "name": "user-profile-card",
   "version": "0.1.0",
-  "homepage": "https://Saaj1.github.io/user-profile",
+  "homepage": "https://Saaj1.github.io/UserProfileCard",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
